@@ -1,0 +1,32 @@
+.profile_link{
+  display: flex;
+  justify-content: space-between;
+}
+
+.contact_text{
+  padding-top: 150px;
+  padding-bottom:100px;
+}
+
+
+#instagram_link {
+font-size: 100px;
+padding-right: 150px;
+
+}
+
+#instagram_link a{
+  text-decoration: none;
+  color: rgb(212, 93, 113);
+  
+}
+
+
+#github_link {
+  font-size: 100px;
+  text-decoration: none;
+}
+#github_link a{
+  text-decoration: none;
+  color: rgb(74, 6, 170);
+}

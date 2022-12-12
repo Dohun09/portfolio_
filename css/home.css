@@ -1,0 +1,31 @@
+
+.home_screen{
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.home_screen_title{
+  font-weight: bold;
+  font-size: 80px;
+  margin-top: 10px;
+  
+}
+
+#profile_home{
+  width: 230px;
+  height: 230px;
+  border-radius: 90px;
+}
+
+.home_simpleIntroduce{
+  text-align: center;
+  font-size: 20px;
+  margin-top: 50px;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 30px;
+}
